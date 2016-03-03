@@ -1,8 +1,8 @@
 GIT Unterricht WDD 415 
 ======================
 
-Wichtige Kommando
------------------
+Wichtige Kommandos
+------------------
 
 * `$ git init`  
   Erstellt ein neues Repository.
